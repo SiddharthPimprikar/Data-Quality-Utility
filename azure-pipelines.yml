@@ -7,5 +7,5 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo "✅ Azure DevOps pipeline is connected and working!"
+- script: echo "✅ Azure DevOps pipeline is connected and working! fine"
   displayName: 'Run test script'
